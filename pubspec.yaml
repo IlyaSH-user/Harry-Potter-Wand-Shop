@@ -1,0 +1,39 @@
+name: my_flutter_app
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 0.0.1+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  english_words: ^4.0.0
+  provider: ^6.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/wands.json
+    - assets/elder_wand.png
+    - assets/harry_wand.png
+    - assets/ron_wand.png
+    - assets/voldemort_wand.png
+    - assets/hermione_wand.png
+    - assets/draco_wand.png
+
+  fonts:
+    - family: Cinzel
+      fonts:
+        - asset: assets/fonts/Cinzel-Regular.ttf

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Elder Wand",
+    "wood": "Elder",
+    "core": "Thestral tail hair",
+    "length": "15 inches",
+    "image": "assets/elder_wand.png",
+    "description": "The most powerful wand in existence."
+  },
+  {
+    "name": "Harry Potter's Wand",
+    "wood": "Holly",
+    "core": "Phoenix feather",
+    "length": "11 inches",
+    "image": "assets/harry_wand.png",
+    "description": "A flexible wand, well suited for heroic deeds."
+  },
+  {
+    "name": "Ron Weasley's Wand",
+    "wood": "Willow",
+    "core": "Unicorn hair",
+    "length": "14 inches",
+    "image": "assets/ron_wand.png",
+    "description": "Sturdy but prone to breaking."
+  },
+  {
+    "name": "Voldemort's Wand",
+    "wood": "Yew",
+    "core": "Phoenix feather",
+    "length": "13.5 inches",
+    "image": "assets/voldemort_wand.png",
+    "description": "Dark and powerful."
+  },
+  {
+    "name": "Hermione Granger's Wand",
+    "wood": "Vine",
+    "core": "Dragon heartstring",
+    "length": "10.75 inches",
+    "image": "assets/hermione_wand.png",
+    "description": "Graceful and precise."
+  },
+  {
+    "name": "Draco Malfoy's Wand",
+    "wood": "Hawthorn",
+    "core": "Unicorn hair",
+    "length": "10 inches",
+    "image": "assets/draco_wand.png",
+    "description": "Impeccably balanced."
+  }
+]
